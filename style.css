@@ -1,0 +1,42 @@
+h1 {
+  font-size: 70px;
+  text-transform: uppercase;
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40px;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  column-count: 3;
+  column-rule-style: solid;
+  font-family: sans-serif, fantasy;
+}
+
+span.break {
+  display: block;
+  margin: 10px;
+}
+
+span.a {
+  font-style: italic;
+}
+
+span.b {
+  font-weight: bold;
+}
+
+span.c {
+  color: pink;
+  background-color: brown;
+}
+
+span.d {
+  color: brown;
+  background-color: pink;
+}
